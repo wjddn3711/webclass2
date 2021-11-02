@@ -1,0 +1,33 @@
+평일 웹2
+
+Zoom 회의 참가
+https://us06web.zoom.us/j/3620435052?pwd=Q1dZTHN3VEJUNExSZ3hqVnJMaHdMQT09
+
+회의 ID: 362 043 5052
+암호: 1900b
+----------------------------------------------------------
+1. html 엘리먼트
+ - 화면 전체를 사용하는 태그 : block element
+ - 화면의 일부를 차지하는 태그 : inline element
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
